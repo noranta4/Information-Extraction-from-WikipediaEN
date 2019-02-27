@@ -1,0 +1,41 @@
+Is X a part of Y?	part
+Was X a part of Y?	part
+Does Y include X?	part
+Did Y include X?	part
+Is X included in Y?	part
+Is X a fraction of Y?	part
+Was X a fraction of Y?	part
+Is Y composed by X?	part
+Was Y composed by X?	part
+What is a part of Y?	part
+Is X a Y?	generalization
+Was X a Y?	generalization
+Is X an example of Y?	generalization
+Was X an example of Y?	generalization
+Are X examples of Y?	generalization
+Were X examples of Y?	generalization
+It is possible to say that X is a Y?	generalization
+It is possible to say that X was a Y?	generalization
+What is X?	generalization
+Is X composed by Y?	material
+Was X composed by Y?	material
+Is X made of Y?	material
+Was X made of Y?	material
+Is X built in Y?	material
+Was X built in Y?	material
+There is Y in X?	material
+There was Y in X?	material
+Is X a type of Y?	specialization
+Was X a type of Y?	specialization
+Is X a kind of Y?	specialization
+Was X a kind of Y?	specialization
+Among the various types of Y, it is possible to cite X?	specialization
+Among the various types of Y, it was possible to cite X?	specialization
+It is possible to say that X is a type of Y?	specialization
+It is possible to say that X was a type of Y?	specialization
+What is a type of Y?	specialization
+Does X took place during Y?	time
+Was X at the epoch of Y?	time
+There was X during Y?	time
+Does X happened during Y?	time
+What happened during Y?	time
