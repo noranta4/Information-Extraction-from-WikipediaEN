@@ -3,7 +3,7 @@ Information extraction from English Wikipedia. The approach used is the one pres
 
 Third homework of the Natural Language Processing course, prof. Roberto Navigli.
 
-University project • 2016 - Natural Language Processing - MSc in Computer Science, I year 
+University project • 2017 - Natural Language Processing - MSc in Computer Science, I year 
 
 The statement of the problem is in `Homework3.pdf`. The source code is is accompanied by a report (`report.pdf`), I strongly suggest you read it to understand the solution code. The Moro & Navigli article can be found [here](https://www.aaai.org/ocs/index.php/IJCAI/IJCAI13/paper/download/6837/7016). 
 
